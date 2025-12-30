@@ -26,7 +26,7 @@ build_ng() {
 }
 
 build_api() {
-  cd CSETWebApi/csetweb_api/CSETWeb_ApiCore
+  cd CSETWebApi/CSETWeb_Api/CSETWeb_ApiCore
 
   echo 'Cleaning Project...'
 
